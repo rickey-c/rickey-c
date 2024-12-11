@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to rickey-c's Github
+## 👋 Welcome to rickey-c's Github
 - 🌱 I’m currently learning Xiamen University
 - 📫 How to reach me: 1604120019@qq.com
 - 💻 I’m passionate about software development
