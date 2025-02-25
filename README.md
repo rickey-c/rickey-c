@@ -1,6 +1,6 @@
 ## 👋 Welcome to rickey-c's Github
-- 🌱 I’m currently learning Xiamen University
-- 📫 How to reach me: 1604120019@qq.com
+- 🌱 I’m currently studying at Xiamen University
+- 📫 How to reach me: rickey-c@qq.com
 - 💻 I’m passionate about software development
 - 📘 Currently Exploring:Java Backend Development
 
